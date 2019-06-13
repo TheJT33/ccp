@@ -68,7 +68,7 @@ collections:
     output: true # makes sure pages are output as html files
     layout: 'ccp_item' # the layout for the pages to use
     metadata:
-      source: 'ccp_records.csv' # path to the metadata file within `_data`
+      source: 'ccp_records2.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images' # path to the directory of images within `_data`
 
