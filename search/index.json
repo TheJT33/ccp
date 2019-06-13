@@ -23,13 +23,93 @@ layout: none
     "lunr_id": 1
   },
   {
+    "pid": "cle_aug",
+    "label": "Untitled",
+    "source": "Cleveland Gazette",
+    "_date": "8/27/1887",
+    "location_of_convention": "Louisville",
+    "collection": "ccp",
+    "permalink": "/ccp/cle_aug",
+    "lunr_id": 2
+  },
+  {
+    "pid": "cle_sept",
+    "label": "Untitled",
+    "source": "Cleveland Gazette",
+    "_date": "9/10/1887",
+    "location_of_convention": "Louisville",
+    "collection": "ccp",
+    "permalink": "/ccp/cle_sept",
+    "lunr_id": 3
+  },
+  {
+    "pid": "colored_men",
+    "label": "The Colored Men",
+    "source": "San Francisco Chronicle",
+    "_date": "1/16/1890",
+    "location_of_convention": "Chicago",
+    "collection": "ccp",
+    "permalink": "/ccp/colored_men",
+    "lunr_id": 4
+  },
+  {
+    "pid": "freeman_aug",
+    "label": "Dodging the Issue",
+    "source": "New York Freeman",
+    "_date": "8/20/1887",
+    "location_of_convention": "Louisville",
+    "collection": "ccp",
+    "permalink": "/ccp/freeman_aug",
+    "lunr_id": 5
+  },
+  {
+    "pid": "nat_con",
+    "label": "National Convention of Colored Men",
+    "source": "Chicago Daily Tribune",
+    "_date": "11/16/1889",
+    "location_of_convention": "Chicago",
+    "collection": "ccp",
+    "permalink": "/ccp/nat_con",
+    "lunr_id": 6
+  },
+  {
     "pid": "nys_con2",
     "label": "The New York State League",
     "source": "New York Age",
-    "_date": "4-31-1890",
+    "_date": "4/31/1890",
     "location_of_convention": "Rochester",
     "collection": "ccp",
     "permalink": "/ccp/nys_con2",
-    "lunr_id": 2
+    "lunr_id": 7
+  },
+  {
+    "pid": "pel_aug",
+    "label": "The National Colored Press Convention Meets",
+    "source": "Weekly Pelican",
+    "_date": "8/13/1887",
+    "location_of_convention": "Louisville",
+    "collection": "ccp",
+    "permalink": "/ccp/pel_aug",
+    "lunr_id": 8
+  },
+  {
+    "pid": "rights",
+    "label": "Want Their Rights as Citizens",
+    "source": "Chicago Daily Tribune",
+    "_date": "1/5/1890",
+    "location_of_convention": "Chicago",
+    "collection": "ccp",
+    "permalink": "/ccp/rights",
+    "lunr_id": 9
+  },
+  {
+    "pid": "wash_aug",
+    "label": "The National Colored Press Association",
+    "source": "Washington Bee",
+    "_date": "8/20/1887",
+    "location_of_convention": "Lousiville",
+    "collection": "ccp",
+    "permalink": "/ccp/wash_aug",
+    "lunr_id": 10
   }
 ]
