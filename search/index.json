@@ -1,0 +1,35 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "cin_cle",
+    "label": "Parham’s Reply",
+    "source": "Cleveland Gazette",
+    "_date": "5/14/1892",
+    "location_of_convention": "Cincinnati",
+    "collection": "ccp",
+    "permalink": "/ccp/cin_cle",
+    "lunr_id": 0
+  },
+  {
+    "pid": "cin_hunts",
+    "label": "Bishop Turner’s Proposed National Convention",
+    "source": "Huntsville Gazette",
+    "_date": "10/28/1893",
+    "location_of_convention": "Cincinnati",
+    "collection": "ccp",
+    "permalink": "/ccp/cin_hunts",
+    "lunr_id": 1
+  },
+  {
+    "pid": "nys_con2",
+    "label": "The New York State League",
+    "source": "New York Age",
+    "_date": "4-31-1890",
+    "location_of_convention": "Rochester",
+    "collection": "ccp",
+    "permalink": "/ccp/nys_con2",
+    "lunr_id": 2
+  }
+]
