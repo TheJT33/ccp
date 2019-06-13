@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: ccp
-  pid: cin_cle
+  pid: pel_aug
   y: 25%
   height: '500px'
 ---
@@ -20,4 +20,4 @@ This project seeks to not only learn about the lives of male delegates, the plac
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='source' collection='ccp' %}
+{% include collection_gallery.html facet_by='location_of_convention' collection='ccp' %}
