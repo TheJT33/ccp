@@ -4,8 +4,8 @@ title: Credits
 permalink: '/credits/'
 ---
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and [Alex Gil](https://github.com/elotroalex). It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+# Introducing the Colored Conventions Project Team
 
-We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
+The award-winning Colored Conventions Project core team is comprised of a diverse group of dedicated and energetic scholars, graduate student leaders, librarians, and undergraduate researchers at the University of Delaware. Project members represent a wide range of academic disciplines from English and history to computer science and German. Augmented by our North American Teaching Partners, our interdisciplinary team is committed to generating an online hub that "brings buried African American history to digital life" and attends to social justice activism in scholarship and research by offering an opportunity for deep engagement with 19th-century Black political organizing. This work has been recognized by awards from the MLA, ASA, and PCA/ACA along with grants from the NEH, Mellon Foundation, and CLIR. Meet the team! Then see the video about the Colored Conventions Project and learn more about project committees and our project principles.
 
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+For all inquiries and questions, please contact us at [coloredconventions@udel.edu](coloredconventions@udel.edu).
