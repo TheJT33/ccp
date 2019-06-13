@@ -7,4 +7,6 @@ location_of_convention: Cincinnati
 order: '01'
 layout: ccp_item
 collection: ccp
+thumbnail: img/derivatives/simple/cin_hunts/thumbnail.jpg
+full: img/derivatives/simple/cin_hunts/full.jpg
 ---

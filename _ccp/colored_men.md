@@ -7,4 +7,6 @@ location_of_convention: Chicago
 order: '05'
 layout: ccp_item
 collection: ccp
+thumbnail: img/derivatives/simple/colored_men_0/thumbnail.jpg
+full: img/derivatives/simple/colored_men_0/full.jpg
 ---

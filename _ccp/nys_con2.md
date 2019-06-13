@@ -7,4 +7,6 @@ location_of_convention: Rochester
 order: '02'
 layout: ccp_item
 collection: ccp
+thumbnail: img/derivatives/simple/nys_con2/thumbnail.jpg
+full: img/derivatives/simple/nys_con2/full.jpg
 ---

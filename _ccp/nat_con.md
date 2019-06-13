@@ -7,4 +7,6 @@ location_of_convention: Chicago
 order: '07'
 layout: ccp_item
 collection: ccp
+thumbnail: img/derivatives/simple/nat_con_0/thumbnail.jpg
+full: img/derivatives/simple/nat_con_0/full.jpg
 ---
