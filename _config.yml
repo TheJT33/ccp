@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'The Colored Convention Project'
+title:            'The Colored Conventions Project'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+baseurl:          '/ccp'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
